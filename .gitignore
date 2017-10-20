@@ -12,6 +12,6 @@ bootstrap-select-*.zip
 
 docs/site
 
-Connect.php
+connect.php
 nbproject/*
 .github
